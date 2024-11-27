@@ -11,7 +11,7 @@ const CareerCompassIntro = ({ onStart }) => {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.5 }}
       >
-        <h1 className="text-4xl font-bold text-center text-indigo-700 mb-8">Welcome to Career Compass AI</h1>
+        <h1 className="text-4xl font-bold text-center text-indigo-700 mb-8">Welcome to FutureForge-AI</h1>
         
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
           <FeatureCard 
